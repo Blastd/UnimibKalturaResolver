@@ -1,5 +1,5 @@
 {
-
+	"author": "DrewTW",
   "manifest_version": 2,
   "name": "Unimib Direct Video Lessons",
   "version": "1.0",
@@ -18,10 +18,9 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "35455c0d-25a4-49e0-96d3-e0b8637df961"
+      "id": "KalturaResolve@DrewTW",
+      "strict_min_version": "56.0"
     }
   }
-  
-
 }
 
