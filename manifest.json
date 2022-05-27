@@ -2,7 +2,7 @@
 	"author": "DrewTW",
   "manifest_version": 2,
   "name": "Unimib Direct Video Lessons",
-  "version": "1.0",
+  "version": "1.5",
 
   "description": "This extension will replace the proprietary video player for viewing lessons with the direct video. This Add-on is intended for use with Unimib's Elearning platform.",
 
